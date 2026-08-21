@@ -30,7 +30,6 @@ The project is organized by modules and progressive complexity:
   * `test_database.sql`: Setup and testing scripts for database environments.
   * `wages_cpi_database.sql`: Economic data modeling tracking wages and consumer price index.
  
-  * 
 ## 🛠️ Skills & Technologies Demonstrated
 * **Cloud Data Warehousing**: Snowflake architecture, virtual warehouses, and role-based access control.
 * **Data Pipelines & Automation**: Tasks, Streams, and stored procedures for robust ETL/ELT.
