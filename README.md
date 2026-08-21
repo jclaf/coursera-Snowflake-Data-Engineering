@@ -19,12 +19,17 @@ The project is organized by modules and progressive complexity:
   * `hamburg_sales_snowpark.ipynb` & `snowpark_df.ipynb`: Introduction to using DataFrames with Snowpark Python.
 
 * **`modern data/`**: Modern data stack features, automation, and streaming.
-  * `module2-menu.sql`, `module2-tasty.sql`, `module2-weather.sql`: Specialized analytical data models.
+  * `module2-menu.sql`, `module2-tasty.sql`, & `module2-weather.sql`: Specialized analytical data models and weather data processing.
   * `module3-dynamique.sql` & `module3-hamburg-extend.sql`: Dynamic data masking and table extensions.
-  * `module3-streams.sql` & `module3-tasks.sql`: Change Data Capture (CDC) with streams and automated task scheduling.
+  * `module3-hamburg-sales.sql`: Sales analysis queries and transformations.
+  * `module3-sproc.sql`: Advanced stored procedures for automation.
+  * `module3-streams.sql`: Change Data Capture (CDC) implementation using streams.
   * `module3-udf.sql`: Custom User-Defined Functions.
-  * `modulo5-email.sql`: Automated email outputs from database events.
-
+  * `module5-tasks.sql`: Automated pipeline scheduling with tasks.
+  * `modulo5-email.sql`: Automated database email notifications.
+  * `test_database.sql`: Setup and testing scripts for database environments.
+  * `wages_cpi_database.sql`: Economic data modeling tracking wages and consumer price index.
+ 
 ## 🛠️ Skills & Technologies Demonstrated
 * **Cloud Data Warehousing**: Snowflake architecture, virtual warehouses, and role-based access control.
 * **Data Pipelines & Automation**: Tasks, Streams, and stored procedures for robust ETL/ELT.
