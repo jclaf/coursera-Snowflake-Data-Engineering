@@ -1,0 +1,1 @@
+select SNOWFLAKE.CORTEX.AI_COMPLETE('llama3.1-8b','What kind of literature was Marianne Moore known for?');
