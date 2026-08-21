@@ -6,19 +6,19 @@ This repository contains hands-on SQL scripts, data pipelines, and notebooks dev
 
 The project is organized by modules and progressive complexity:
 
-* **`advance data/`**: Advanced Snowflake features and data operations.
+* **`Advanced Data Engineering with Snowflake/`**: Advanced Snowflake features and data operations.
   * `alert.sql` & `notification.sql`: Setting up automated system alerts and notifications.
   * `api_integration.sql`: Integrating external APIs directly with Snowflake.
   * `event_tables.sql` & `traces.sql`: Observability, logging, and tracing.
   * `sproc.sql`: Writing stored procedures.
   * `debugging-hamburg.ipynb` & `hamburg_pipeline.ipynb`: Jupyter notebooks for data pipeline development.
 
-* **`intro data/`**: Foundations and introductory data engineering workloads.
+* **`Intro to Snowflake for Devs, Data Scientists, Data Engineers/`**: Foundations and introductory data engineering workloads.
   * `cortx_llm.sql`: Exploring AI/ML capabilities (Snowflake Cortex LLM).
   * `courses1-module2-eval.sql`, `courses1-tasty-build.sql`, `Courses1-tasty-view.sql`: Core data modeling and views.
   * `hamburg_sales_snowpark.ipynb` & `snowpark_df.ipynb`: Introduction to using DataFrames with Snowpark Python.
 
-* **`modern data/`**: Modern data stack features, automation, and streaming.
+* **`Introduction to Modern Data Engineering with Snowflake/`**: Modern data stack features, automation, and streaming.
   * `module2-menu.sql`, `module2-tasty.sql`, & `module2-weather.sql`: Specialized analytical data models and weather data processing.
   * `module3-dynamique.sql` & `module3-hamburg-extend.sql`: Dynamic data masking and table extensions.
   * `module3-hamburg-sales.sql`: Sales analysis queries and transformations.
